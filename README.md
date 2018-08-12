@@ -4,3 +4,5 @@
    `vote`函数，`delegate`函数的调用者判断，提案编号的范围判断。
 
    `winningProposal`函数，`winnerName`函数出现多个票数最高且相同的情况。
+   
+   具体问题分析请看CSDN博客：https://blog.csdn.net/luckydog612/article/details/81608214
